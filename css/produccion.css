@@ -1,0 +1,31 @@
+#produccion{
+	background: #2e2672;
+	text-align: center;
+	padding: 30px;
+	margin-top: 60px;
+}
+
+#produccion h2, h4{
+	padding: 15px;
+    color: #fff;
+    text-align: center;
+}
+
+#produccion .contenedor{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+/*Responsive*/
+
+/*Dispositivo movil*/
+@media (min-width:480px) {
+
+}
+/*Tablet*/
+@media (min-width:768px) {
+}
+/*Escritorio*/
+@media (min-width:1024px) {
+}

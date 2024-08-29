@@ -1,0 +1,35 @@
+
+#bienvenidos{
+	text-align: center;
+	color: #fff;
+}
+#bienvenidos h2{
+	padding: 15px;
+	text-transform: uppercase;
+}
+#bienvenidos img {
+	width: 20%;
+}
+#blog{
+	padding:50px;
+	margin-top: 60px;
+}
+
+#blog h2, h4{
+	text-align: center;
+	color: #fff;
+}
+
+#blog .contenedor{
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap; 
+}
+#blog article{
+	margin:25px;
+}
+#blog img{
+	width: 100%;
+	max-width: 280px;
+	height: 200px ;
+}
